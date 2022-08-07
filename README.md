@@ -13,6 +13,7 @@ If the cards are the same rank, it is War. Each player turns up one card face do
 
 ## UML Diagram
 
+![image](https://user-images.githubusercontent.com/67281513/164540471-f587880b-932e-47fe-9132-dce5d57f9d6c.png)
 
 #### Class Cards
 ![image](https://user-images.githubusercontent.com/67281513/164540714-ca8d45ea-7269-4eb8-8d34-5286edcbc453.png)
